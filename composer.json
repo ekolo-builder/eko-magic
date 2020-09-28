@@ -1,0 +1,15 @@
+{
+    "name": "ekolobuilder/eko-magic",
+    "description": "Module allows to manage magic methods",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Don de Dieu Bolenge",
+            "email": "dondedieubolenge@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    }
+}
